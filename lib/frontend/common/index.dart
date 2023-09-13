@@ -1,0 +1,11 @@
+export 'auth/index.dart';
+export 'onboarding/index.dart';
+export 'otp/index.dart';
+export 'password/index.dart';
+export 'registrations/index.dart';
+export 'signin/index.dart';
+export 'signup/index.dart';
+export 'splash/index.dart';
+export 'permission/index.dart';
+export 'become/index.dart';
+export 'status/index.dart';
